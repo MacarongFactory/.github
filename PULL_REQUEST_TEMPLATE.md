@@ -1,5 +1,4 @@
-### Task Summary:
-- Insert task summary here
+### Task Summary: Insert task summary here
 
 ---
 ### Asana Task Links (Required):
