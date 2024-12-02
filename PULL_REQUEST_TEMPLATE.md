@@ -1,4 +1,4 @@
-Commit Type: Subject
+Tag: Message
 
 ---
 ### Asana Task Links (Required):
