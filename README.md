@@ -1,7 +1,7 @@
 # .github
 **Default MacarongFactory's Community Health File Repository**
 
-이 레포지토리는 조직 내 리포지토리 전반에 적용되는 기본 **커뮤니티 건강 파일**(템플릿 파일 등)을 제공합니다.
+이 레포지토리는 조직 내 레포지토리 전반에 적용되는 기본**Community Health File**(템플릿 파일, github action yml 파일 등) 을 제공합니다.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🏷️ How To Write Commit Message on Pull Request
+## 🏷️ How To Write Commit Message and Pull Request
 
 Tag: Message
 
@@ -29,25 +29,25 @@ Tag: Message
 
 ### e.g.
 - **Feat**: 새로운 기능 추가
-  - 예: `Feat: Add New function to rule the world.`
+  - 예: `feat: Add New function to rule the world.`
 
 - **Mod**: 기존 기능 수정
-  - 예: `Mod: Add Car factor in Domination.ruleTheWorld().`
+  - 예: `mod: Add Car factor in Domination.ruleTheWorld().`
 
 - **Ref**: 코드 리팩터링
-  - 예: `Ref: Extract empathy stuff to an abstract class.`
+  - 예: `ref: Extract empathy stuff to an abstract class.`
 
 - **Fix**: 버그 수정
-  - 예: `Fix: Starvation need to be initialised before Energy to avoid the NPE.`
+  - 예: `fix: Starvation need to be initialised before Energy to avoid the NPE.`
 
 - **Rem**: 불필요한 코드 제거
-  - 예: `Rem: freeSpeech is not used anymore.`
+  - 예: `rem: freeSpeech is not used anymore.`
 
 - **Perf**: 성능 최적화
-  - 예: `Perf: Improve query performance by adding indexes to User table.`
+  - 예: `perf: Improve query performance by adding indexes to User table.`
 
 - **Rev**: reverting commit
-  - 예: `Rev: Revert "Add Car factor in Domination.ruleTheWorld()"`
+  - 예: `rev: Revert "Add Car factor in Domination.ruleTheWorld()"`
 ---
 
 ### 💡 커밋 메시지 작성 시 참고 사항
