@@ -54,3 +54,4 @@ Tag: Message
 1. 첫번째 줄은 명확하고 간략하게 작성하여 코드 이력을 찾아보는 개발자가 한 눈에 알아볼 수 있게 합니다. <br> (히스토리 파악에 사용됩니다.)
 2. **태그와 메시지 사이에는 콜론(`:`)과 한 칸의 공백**을 포함합니다. 
 3. 태그는 반드시 위의 7개 중 하나를 사용합니다.
+4. [Ref Doc](https://google.github.io/eng-practices/review/developer/cl-descriptions.html)
