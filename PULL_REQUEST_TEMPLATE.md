@@ -1,13 +1,32 @@
-GitTag: Message
+<!--
+제목: `<tag>: <메시지>` — tag 는 feat | mod | ref | fix | rem | perf | rev
+     https://github.com/MacarongFactory/.github/blob/master/README.md
 
----
-### Asana Task Links (Required):
-- Insert all related task link here
+해당 없는 섹션은 통째로 지우고 올립니다. 빈 항목에 "-" 만 남기지 않습니다.
+-->
 
----
-### Changes (Required):
-- Insert what has been changed here
+## 요약 (필수)
+<!-- 무엇을 왜 바꾸는지 1~3줄. 제목 복붙 금지 -->
 
----
-### Ref (Optional):
-- Insert references, if any, here
+
+## Asana (필수)
+<!-- [태스크 제목](URL) 형식. 기획·개발이 나뉘면 구분해서 -->
+-
+
+## 변경 사항 (필수)
+<!-- 무엇을 바꿨는지. 판단이 갈린 지점은 하위 불릿으로 "왜" 를 남깁니다 -->
+-
+
+## 영향 범위 (해당 시)
+<!-- 해당 없는 줄은 삭제 -->
+- 신규·변경 API / 화면:
+- DB 마이그레이션:
+- 설정 / 시크릿:
+- 하위 호환 깨짐:
+
+## 배포 순서 (필수)
+<!-- 단독으로 나가도 되면 아래 한 줄로 끝. 아니면 선행 배포를 순서대로 -->
+단독 배포 가능
+
+## Ref (선택)
+<!-- 위키·Slack·타 레포 PR·후속 작업 -->
